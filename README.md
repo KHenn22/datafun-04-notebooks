@@ -101,7 +101,4 @@ Custom implementation of the example project at
 - Added author information and project links to the top of the notebook.
 - Added personal notes and setup confirmation in a dedicated section.
 - Included a custom analysis cell calculating average flipper length and body mass for the penguins dataset, with a histogram chart.
-- Added a Seaborn scatter plot visualizing flipper length vs. body mass by species.
-- Added a Seaborn bar plot for custom sales data.
-- Introduced an interactive histogram using ipywidgets, allowing users to adjust the number of bins with a slider.
 - Updated all outputs and pushed the notebook to GitHub.
